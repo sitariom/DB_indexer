@@ -1,11 +1,11 @@
-# Dragão Brasil Indexer AI
+# Indexer de artigos
 
-Uma aplicação web moderna desenvolvida para automatizar a organização, catalogação e renomeação de coleções digitais da revista **Dragão Brasil**. Utiliza a inteligência artificial do Google Gemini (modelo `gemini-2.0-flash-exp`) para analisar o conteúdo de arquivos PDF locais, extrair metadados precisos e padronizar a nomenclatura dos arquivos.
+Uma aplicação web  desenvolvida para automatizar a organização, catalogação e renomeação de coleções digitais. Utiliza a inteligência artificial do Google Gemini (modelo `gemini-2.0-flash-exp`) para analisar o conteúdo de arquivos PDF locais, extrair metadados precisos e padronizar a nomenclatura dos arquivos.
 
 ## Funcionalidades Principais
 
 ### 1. Análise Inteligente de Conteúdo
-*   **Extração de Metadados**: Identifica automaticamente o número da edição, seção da revista (ex: "Chefe de Fase", "Dicas de Mestre"), sistema de RPG, tipo de conteúdo (Aventura, Regras, Resenha) e título da matéria.
+*   **Extração de Metadados**: Identifica automaticamente o número da edição, seção da revista, sistema, tipo de conteúdo e título da matéria.
 *   **Resumo Automático**: Gera um breve resumo do conteúdo do PDF.
 *   **Geração de Slug**: Cria nomes de arquivo padronizados e seguros para sistemas de arquivos.
 
