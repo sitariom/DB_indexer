@@ -1,0 +1,5 @@
+{
+  "name": "PDF Summarizer AI",
+  "description": "Uma aplicação moderna para resumir arquivos PDF locais usando a inteligência artificial do Google Gemini. Basta arrastar e soltar seu documento.",
+  "requestFramePermissions": []
+}
