@@ -13,7 +13,7 @@ const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
  */
 export const analyzeRpgPdf = async (base64Pdf: string, fileName: string): Promise<RpgMetadata> => {
   try {
-    const modelId = 'gemini-2.0-flash-exp'; 
+    const modelId = 'gemini-3-flash-preview'; 
 
     const prompt = `
       Você é o Arquivista Oficial da **Revista Dragão Brasil** (DB).
